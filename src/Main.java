@@ -15,6 +15,9 @@ public class Main {
             System.out.println("Still test 2");
             System.out.println();
 
+            int a = 10; int b = 20;
+            System.out.println(a+b);
+
 
         }
     }
