@@ -13,6 +13,7 @@ public class Main {
 
             System.out.println("This is testing Commit command");
             System.out.println("Still test 2");
+            System.out.println();
 
 
         }
